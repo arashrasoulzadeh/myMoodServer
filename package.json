@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/arashrasoulzadeh/myMoodServer/issues"
   },
-  "homepage": "https://github.com/arashrasoulzadeh/myMoodServer#readme"
+  "homepage": "https://github.com/arashrasoulzadeh/myMoodServer#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.0.1"
+  }
 }
